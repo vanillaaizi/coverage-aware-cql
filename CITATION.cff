@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this educational implementation, please cite this repository."
+title: "Coverage-Aware Conservative Q-Learning for Offline Reinforcement Learning"
+authors:
+  - family-names: Seitjan
+    given-names: Aizere
+year: 2026

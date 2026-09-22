@@ -1,0 +1,6 @@
+,average_return,average_return,success_rate,success_rate,average_episode_length,average_episode_length,dataset_state_action_coverage,dataset_state_action_coverage,behavior_policy_success_rate,behavior_policy_success_rate
+,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,
+Coverage-aware CQL,-14.625,10.253048327204938,0.875,0.3535533905932738,15.5,9.899494936611665,0.16581632653061223,0.015666315787321194,1.0,0.0
+Fixed-alpha CQL,-36.25,34.853776184019345,0.625,0.5175491695067657,22.5,14.491376746189438,0.16581632653061223,0.015666315787321194,1.0,0.0
+Offline Q-learning,-79.875,0.3535533905932746,0.0,0.0,40.0,0.0,0.16581632653061223,0.015666315787321194,1.0,0.0

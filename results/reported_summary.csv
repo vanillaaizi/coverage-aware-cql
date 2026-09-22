@@ -1,0 +1,4 @@
+method,success_rate_mean,success_rate_std,average_return_mean,average_return_std
+Offline Q-learning,0.0,0.0,-79.875,0.354
+Fixed-alpha CQL,0.625,0.518,-36.25,34.854
+Coverage-aware CQL,0.875,0.354,-14.625,10.253
