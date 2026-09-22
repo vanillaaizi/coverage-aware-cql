@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+results/results_raw.csv
+results/results_summary.csv
+results/fig_success_rate.png
+results/fig_average_return.png
+results/fig_paths.png
